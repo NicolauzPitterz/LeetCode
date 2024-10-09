@@ -1,3 +1,8 @@
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
 var twoSum = function (nums, target) {
   // Solution 1 (Brute Force)
   // for (let i = 0; i < nums.length; i++) {
